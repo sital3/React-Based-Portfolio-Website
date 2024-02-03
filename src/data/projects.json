@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Real Estate Price Predictor",
+      "imageSrc": "projects/project.png",
+      "description": "Develop a web-based Real Estate Price Predictor using Python, Flask, and ML techniques.",
+      "skills": ["Python", "Machine Learning", "Flask"],
+      "demo": "",
+      "source": "https://github.com/sital3/Real-Estate-Price-Predictor"
+    },
+    {
+      "title": "Analysing Algerian Fire Forest Pattern",
+      "imageSrc": "projects/project.png",
+      "description": "The goal of this project is to develop an Analyzing Algerian Forest Fire Patterns using Algerian forest fire dataset from Kaggle and using python libraries.",
+      "skills": ["Python", "Machine Learning", "Kaggle"],
+      "demo": "",
+      "source": "https://github.com/sital3/Analysing-Algerian-Fire-Forest-Pattern"
+    },
+    {
+      "title": "Project C",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React", "HTML/CSS", "JavaScript" ],
+      "demo": "",
+      "source": ""
+    }
+  ]
+  

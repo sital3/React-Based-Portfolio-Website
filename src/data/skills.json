@@ -1,0 +1,43 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Python",
+      "imageSrc": "skills/pythonIcon.png"
+    },
+    {
+      "title": "C++",
+      "imageSrc": "skills/cplusIcon.png"
+    },
+    {
+      "title": "ML",
+      "imageSrc": "skills/mlIcon.png"
+    },
+    {
+      "title": "Figma",
+      "imageSrc": "skills/figma.png"
+    },
+    {
+        "title": "MySql",
+        "imageSrc": "skills/sqlIcon.png"
+      },
+      {
+        "title": "MS Word",
+        "imageSrc": "skills/wordIcon.png"
+      },
+      {
+        "title": "MS Excel",
+        "imageSrc": "skills/excelIcon.png"
+      }
+  ]
+  
